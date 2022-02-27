@@ -1,0 +1,68 @@
+{
+  "clientes": [
+    {
+      "nombre": "FRANCISCO",
+      "empresa": "empresa1",
+      "email": "hola@hola.com",
+      "telefono": "4546456454",
+      "notas": "cliente recom",
+      "id": 1
+    },
+    {
+      "nombre": "pedro pica",
+      "empresa": "dinopolis",
+      "email": "petter@p.com",
+      "telefono": "4425142",
+      "notas": "heloo2",
+      "id": 2
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen diseno",
+      "email": "di@di.com",
+      "telefono": "23432432",
+      "notas": "los mejores diseos",
+      "id": 3
+    },
+    {
+      "nombre": "Roberto",
+      "empresa": "R&r",
+      "email": "r@r.com",
+      "telefono": "55745",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "roberto",
+      "empresa": "mi empresa",
+      "email": "em@em.com",
+      "telefono": "45544",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "fernanda",
+      "empresa": "f@f.com",
+      "email": "f@gmail.com",
+      "telefono": "55455",
+      "notas": "dwdw",
+      "id": 6
+    },
+    {
+      "nombre": "Mario",
+      "empresa": "31 minutos",
+      "email": "hugo@gmail.com",
+      "telefono": "131313",
+      "notas": "notas",
+      "id": 7
+    },
+    {
+      "nombre": "Roberto p",
+      "empresa": "roooo@gmail.com",
+      "email": "Frank@hi.com",
+      "telefono": "33423",
+      "notas": "222",
+      "id": 9
+    }
+  ]
+}
